@@ -2,7 +2,7 @@
 <img width="300px" src="./assets/logo.svg"/>
 </h1>
 </br>
-<img align="center" width="90%" src="./assets/devFinance.jpg"/></br></br>
+<img align="center" width="100%" src="./assets/devFinance.jpg"/></br></br>
 
 ## 💻 Projeto
 
